@@ -6,7 +6,7 @@ from pathlib import Path
 
 from github import Github
 
-from config import *
+#from config import *
 
 repo_path = Path(REPO_NAME)
 today = date.today()
