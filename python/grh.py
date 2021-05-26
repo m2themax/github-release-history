@@ -92,6 +92,9 @@ def main():
 Started at: {}
 Finished at: {}
 Rate limit remaining: {}""".format(today, start_timestamp.isoformat(), end_timestamp.isoformat(), G.get_rate_limit().core.remaining)
+    
+    os.system("git config --global user.name \"GitHub Actions\"")
+    os.system("git config --global user.email \"actions@github.com\"")
 
     git("add", "--all")
     git("commit", "-m", commit_message)
