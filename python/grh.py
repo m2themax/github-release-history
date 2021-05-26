@@ -8,6 +8,11 @@ from github import Github
 
 #from config import *
 
+# get email and password from environment variables
+REPO_NAME = os.environ.get('REPO_NAME')
+REPO_USER = os.environ.get('REPO_USER')
+API_KEY = os.environ.get('API_KEY')
+
 repo_path = Path(REPO_NAME)
 today = date.today()
 yesterday = today - timedelta(days=1)
