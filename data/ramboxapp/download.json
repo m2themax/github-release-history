@@ -1,0 +1,4476 @@
+{
+ "releases": {
+  "12013856": {
+   "assets": {
+    "7949168": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-linux-x64.AppImage"
+    },
+    "7949193": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-linux-x64.zip"
+    },
+    "7949257": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.0-linux-x64.snap"
+    },
+    "7949261": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-linux-x64.tar.gz"
+    },
+    "7949273": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-win.exe.blockmap"
+    },
+    "7949274": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 27
+     },
+     "name": "RamboxPro-1.0.0-win.exe"
+    },
+    "7949309": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-linux-x64.deb"
+    },
+    "7949314": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 85
+     },
+     "name": "latest.yml"
+    },
+    "7949334": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-linux-x64.rpm"
+    },
+    "7949335": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "latest-linux.yml"
+    },
+    "7949932": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.0.0-mac.dmg"
+    },
+    "7949933": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.0-mac.dmg.blockmap"
+    },
+    "7949935": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.0-mac.zip"
+    },
+    "7949936": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-mac.json"
+    },
+    "7949937": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 10
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2018-06-18T23:25:47",
+   "name": "v1.0.0"
+  },
+  "12150692": {
+   "assets": {
+    "8047072": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.1-linux-x64.AppImage"
+    },
+    "8047078": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.1-mac.dmg"
+    },
+    "8047079": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.1-mac.dmg.blockmap"
+    },
+    "8047080": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.0.1-mac.zip"
+    },
+    "8047081": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "latest-mac.json"
+    },
+    "8047082": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "latest-mac.yml"
+    },
+    "8047089": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.1-linux-x64.zip"
+    },
+    "8047095": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.1-win.exe.blockmap"
+    },
+    "8047096": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 23
+     },
+     "name": "RamboxPro-1.0.1-win.exe"
+    },
+    "8047113": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 49
+     },
+     "name": "latest.yml"
+    },
+    "8047119": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.1-linux-x64.snap"
+    },
+    "8047122": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.1-linux-x64.tar.gz"
+    },
+    "8047159": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.1-linux-x64.deb"
+    },
+    "8047180": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.1-linux-x64.rpm"
+    },
+    "8047181": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2018-06-18T23:25:47",
+   "name": "v1.0.1"
+  },
+  "12247180": {
+   "assets": {
+    "8121119": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 581
+     },
+     "name": "RamboxPro-1.0.2-mac.dmg"
+    },
+    "8121120": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.2-mac.dmg.blockmap"
+    },
+    "8121137": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.2-mac.zip"
+    },
+    "8121139": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "latest-mac.json"
+    },
+    "8121142": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 2711
+     },
+     "name": "latest-mac.yml"
+    },
+    "8121155": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 51
+     },
+     "name": "RamboxPro-1.0.2-linux-x64.AppImage"
+    },
+    "8121186": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.2-win.exe.blockmap"
+    },
+    "8121187": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 1661
+     },
+     "name": "RamboxPro-1.0.2-win.exe"
+    },
+    "8121189": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 10
+     },
+     "name": "RamboxPro-1.0.2-linux-x64.zip"
+    },
+    "8121203": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 5222
+     },
+     "name": "latest.yml"
+    },
+    "8121258": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 1072
+     },
+     "name": "RamboxPro-1.0.2-linux-x64.snap"
+    },
+    "8121270": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 18
+     },
+     "name": "RamboxPro-1.0.2-linux-x64.tar.gz"
+    },
+    "8121290": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 245
+     },
+     "name": "RamboxPro-1.0.2-linux-x64.deb"
+    },
+    "8121336": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 33
+     },
+     "name": "RamboxPro-1.0.2-linux-x64.rpm"
+    },
+    "8121343": {
+     "created_at": "2018-06-18T23:25:47",
+     "downloads": {
+      "2021-05-25": 107
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2018-06-18T23:25:47",
+   "name": "v1.0.2"
+  },
+  "12311795": {
+   "assets": {
+    "8234458": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 39
+     },
+     "name": "RamboxPro-1.0.3-linux-x64.AppImage"
+    },
+    "8234498": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.0.3-linux-x64.zip"
+    },
+    "8234567": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 90
+     },
+     "name": "RamboxPro-1.0.3-linux-x64.snap"
+    },
+    "8234577": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.0.3-linux-x64.tar.gz"
+    },
+    "8234597": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 14
+     },
+     "name": "RamboxPro-1.0.3-linux-x64.deb"
+    },
+    "8234605": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 1015
+     },
+     "name": "RamboxPro-1.0.3-win.exe"
+    },
+    "8234606": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 331
+     },
+     "name": "RamboxPro-1.0.3-win.exe.blockmap"
+    },
+    "8234641": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3109
+     },
+     "name": "latest.yml"
+    },
+    "8234657": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.0.3-linux-x64.rpm"
+    },
+    "8234659": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 74
+     },
+     "name": "latest-linux.yml"
+    },
+    "8235171": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 89
+     },
+     "name": "RamboxPro-1.0.3-mac.dmg"
+    },
+    "8235172": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.3-mac.dmg.blockmap"
+    },
+    "8235175": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 670
+     },
+     "name": "RamboxPro-1.0.3-mac.zip"
+    },
+    "8235176": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 1647
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2018-08-08T15:14:49",
+   "name": "v1.0.3"
+  },
+  "12458760": {
+   "assets": {
+    "8308250": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 341
+     },
+     "name": "RamboxPro-1.0.4-win.exe"
+    },
+    "8308251": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 311
+     },
+     "name": "RamboxPro-1.0.4-win.exe.blockmap"
+    },
+    "8308252": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 852
+     },
+     "name": "latest.yml"
+    },
+    "8308328": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.4-mac.dmg.blockmap"
+    },
+    "8308329": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 33
+     },
+     "name": "RamboxPro-1.0.4-mac.dmg"
+    },
+    "8308332": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 154
+     },
+     "name": "RamboxPro-1.0.4-mac.zip"
+    },
+    "8308333": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 443
+     },
+     "name": "latest-mac.yml"
+    },
+    "8308381": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 14
+     },
+     "name": "RamboxPro-1.0.4-linux-x64.AppImage"
+    },
+    "8308388": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.4-linux-x64.zip"
+    },
+    "8308396": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 35
+     },
+     "name": "RamboxPro-1.0.4-linux-x64.snap"
+    },
+    "8308398": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.0.4-linux-x64.tar.gz"
+    },
+    "8308416": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.0.4-linux-x64.deb"
+    },
+    "8308422": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.4-linux-x64.rpm"
+    },
+    "8308423": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 10
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2018-08-08T15:14:49",
+   "name": "v1.0.4"
+  },
+  "12488255": {
+   "assets": {
+    "8325176": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 14
+     },
+     "name": "RamboxPro-1.0.5-linux-x64.AppImage"
+    },
+    "8325188": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 344
+     },
+     "name": "RamboxPro-1.0.5-win.exe.blockmap"
+    },
+    "8325189": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 529
+     },
+     "name": "RamboxPro-1.0.5-win.exe"
+    },
+    "8325191": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.5-linux-x64.zip"
+    },
+    "8325217": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 1852
+     },
+     "name": "latest.yml"
+    },
+    "8325252": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 47
+     },
+     "name": "RamboxPro-1.0.5-linux-x64.snap"
+    },
+    "8325256": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.5-linux-x64.tar.gz"
+    },
+    "8325304": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.0.5-linux-x64.deb"
+    },
+    "8325316": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.5-mac.dmg.blockmap"
+    },
+    "8325317": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 36
+     },
+     "name": "RamboxPro-1.0.5-mac.dmg"
+    },
+    "8325320": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 210
+     },
+     "name": "RamboxPro-1.0.5-mac.zip"
+    },
+    "8325321": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 958
+     },
+     "name": "latest-mac.yml"
+    },
+    "8325324": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.5-linux-x64.rpm"
+    },
+    "8325325": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 36
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2018-08-08T15:14:49",
+   "name": "v1.0.5"
+  },
+  "12547082": {
+   "assets": {
+    "8369256": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 71
+     },
+     "name": "RamboxPro-1.0.6-linux-x64.AppImage"
+    },
+    "8369318": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 42
+     },
+     "name": "RamboxPro-1.0.6-linux-x64.zip"
+    },
+    "8369424": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 1016
+     },
+     "name": "RamboxPro-1.0.6-win.exe.blockmap"
+    },
+    "8369425": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 5067
+     },
+     "name": "RamboxPro-1.0.6-win.exe"
+    },
+    "8369439": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2388
+     },
+     "name": "RamboxPro-1.0.6-linux-x64.snap"
+    },
+    "8369446": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 70918
+     },
+     "name": "latest.yml"
+    },
+    "8369459": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 28
+     },
+     "name": "RamboxPro-1.0.6-linux-x64.tar.gz"
+    },
+    "8369488": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 449
+     },
+     "name": "RamboxPro-1.0.6-linux-x64.deb"
+    },
+    "8369581": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 82
+     },
+     "name": "RamboxPro-1.0.6-linux-x64.rpm"
+    },
+    "8369582": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 789
+     },
+     "name": "latest-linux.yml"
+    },
+    "8369625": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.6-mac.dmg.blockmap"
+    },
+    "8369626": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2015
+     },
+     "name": "RamboxPro-1.0.6-mac.dmg"
+    },
+    "8369627": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 420
+     },
+     "name": "RamboxPro-1.0.6-mac.zip"
+    },
+    "8369630": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 34604
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2018-08-08T15:14:49",
+   "name": "v1.0.6"
+  },
+  "14348664": {
+   "assets": {
+    "10030678": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.0.7-linux-x64.AppImage"
+    },
+    "10030774": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.7-linux-x64.zip"
+    },
+    "10030781": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.0.7-linux-x64.snap"
+    },
+    "10030802": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.0.7-mac.dmg"
+    },
+    "10030803": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.7-mac.dmg.blockmap"
+    },
+    "10030809": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 85
+     },
+     "name": "RamboxPro-1.0.7-mac.zip"
+    },
+    "10030810": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 121
+     },
+     "name": "latest-mac.yml"
+    },
+    "10030929": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.7-linux-x64.deb"
+    },
+    "10030994": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.0.7-linux-x64.rpm"
+    },
+    "10030997": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    },
+    "10031203": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 144
+     },
+     "name": "RamboxPro-1.0.7-win.exe.blockmap"
+    },
+    "10031204": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 181
+     },
+     "name": "RamboxPro-1.0.7-win.exe"
+    },
+    "10031265": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 206
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2018-08-08T15:14:49",
+   "name": "v1.0.7"
+  },
+  "14399840": {
+   "assets": {
+    "10040910": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 67
+     },
+     "name": "RamboxPro-1.0.8-linux-x64.AppImage"
+    },
+    "10040928": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.0.8-mac.dmg.blockmap"
+    },
+    "10040929": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2237
+     },
+     "name": "RamboxPro-1.0.8-mac.dmg"
+    },
+    "10040938": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 351
+     },
+     "name": "RamboxPro-1.0.8-mac.zip"
+    },
+    "10040939": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2359
+     },
+     "name": "latest-mac.yml"
+    },
+    "10040940": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "RamboxPro-1.0.8-linux-x64.zip"
+    },
+    "10040947": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 2490
+     },
+     "name": "RamboxPro-1.0.8-linux-x64.snap"
+    },
+    "10040961": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 21
+     },
+     "name": "RamboxPro-1.0.8-linux-x64.tar.gz"
+    },
+    "10040974": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 186
+     },
+     "name": "RamboxPro-1.0.8-linux-x64.deb"
+    },
+    "10041001": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 53
+     },
+     "name": "RamboxPro-1.0.8-linux-x64.rpm"
+    },
+    "10041002": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 26
+     },
+     "name": "latest-linux.yml"
+    },
+    "10041022": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 511
+     },
+     "name": "RamboxPro-1.0.8-win.exe.blockmap"
+    },
+    "10041023": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 5192
+     },
+     "name": "RamboxPro-1.0.8-win.exe"
+    },
+    "10041028": {
+     "created_at": "2018-08-08T15:14:49",
+     "downloads": {
+      "2021-05-25": 8924
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2018-08-08T15:14:49",
+   "name": "v1.0.8"
+  },
+  "16096213": {
+   "assets": {
+    "11549836": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 15
+     },
+     "name": "RamboxPro-1.1.0-linux-x64.AppImage"
+    },
+    "11549847": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "RamboxPro-1.1.0-mac.zip"
+    },
+    "11549851": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 286
+     },
+     "name": "RamboxPro-1.1.0-mac.dmg"
+    },
+    "11549852": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.1.0-mac.dmg.blockmap"
+    },
+    "11549854": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1291
+     },
+     "name": "latest-mac.yml"
+    },
+    "11549954": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.1.0-linux-x64.zip"
+    },
+    "11549965": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 226
+     },
+     "name": "RamboxPro-1.1.0-linux-x64.snap"
+    },
+    "11550074": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.1.0-linux-x64.tar.gz"
+    },
+    "11550154": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 38
+     },
+     "name": "RamboxPro-1.1.0-linux-x64.deb"
+    },
+    "11550249": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 890
+     },
+     "name": "RamboxPro-1.1.0-win.exe.blockmap"
+    },
+    "11550250": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 517
+     },
+     "name": "RamboxPro-1.1.0-win.exe"
+    },
+    "11550295": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2462
+     },
+     "name": "latest.yml"
+    },
+    "11550306": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.1.0-linux-x64.rpm"
+    },
+    "11550310": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 105
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.0"
+  },
+  "16249852": {
+   "assets": {
+    "11663949": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 33
+     },
+     "name": "RamboxPro-1.1.1-linux-x64.AppImage"
+    },
+    "11663952": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 141
+     },
+     "name": "RamboxPro-1.1.1-mac.zip"
+    },
+    "11663964": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 480
+     },
+     "name": "RamboxPro-1.1.1-mac.dmg"
+    },
+    "11663965": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.1.1-mac.dmg.blockmap"
+    },
+    "11663966": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6312
+     },
+     "name": "latest-mac.yml"
+    },
+    "11664025": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.1.1-linux-x64.zip"
+    },
+    "11664028": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 517
+     },
+     "name": "RamboxPro-1.1.1-linux-x64.snap"
+    },
+    "11664128": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.1.1-linux-x64.tar.gz"
+    },
+    "11664172": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 66
+     },
+     "name": "RamboxPro-1.1.1-linux-x64.deb"
+    },
+    "11664252": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 10
+     },
+     "name": "RamboxPro-1.1.1-linux-x64.rpm"
+    },
+    "11664256": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 364
+     },
+     "name": "latest-linux.yml"
+    },
+    "11666053": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1512
+     },
+     "name": "RamboxPro-1.1.1-win.exe"
+    },
+    "11666054": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1106
+     },
+     "name": "RamboxPro-1.1.1-win.exe.blockmap"
+    },
+    "11666075": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12927
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.1"
+  },
+  "16632641": {
+   "assets": {
+    "12021413": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 45
+     },
+     "name": "RamboxPro-1.1.2-linux-x64.AppImage"
+    },
+    "12021483": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.1.2-linux-x64.zip"
+    },
+    "12021484": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 820
+     },
+     "name": "RamboxPro-1.1.2-linux-x64.snap"
+    },
+    "12021577": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 50
+     },
+     "name": "RamboxPro-1.1.2-linux-x64.tar.gz"
+    },
+    "12021609": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 66
+     },
+     "name": "RamboxPro-1.1.2-linux-x64.deb"
+    },
+    "12021669": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 21
+     },
+     "name": "RamboxPro-1.1.2-linux-x64.rpm"
+    },
+    "12021679": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 295
+     },
+     "name": "latest-linux.yml"
+    },
+    "12022015": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 912
+     },
+     "name": "RamboxPro-1.1.2-win.exe.blockmap"
+    },
+    "12022016": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1802
+     },
+     "name": "RamboxPro-1.1.2-win.exe"
+    },
+    "12022035": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 19997
+     },
+     "name": "latest.yml"
+    },
+    "12022633": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 265
+     },
+     "name": "RamboxPro-1.1.2-mac.zip"
+    },
+    "12022636": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 593
+     },
+     "name": "RamboxPro-1.1.2-mac.dmg"
+    },
+    "12022637": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.1.2-mac.dmg.blockmap"
+    },
+    "12022640": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9908
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.2"
+  },
+  "17226715": {
+   "assets": {
+    "12563615": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 26
+     },
+     "name": "RamboxPro-1.1.3-linux-x64.AppImage"
+    },
+    "12563628": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2172
+     },
+     "name": "RamboxPro-1.1.3-win.exe"
+    },
+    "12563629": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1156
+     },
+     "name": "RamboxPro-1.1.3-win.exe.blockmap"
+    },
+    "12563658": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.1.3-mac.dmg.blockmap"
+    },
+    "12563659": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 726
+     },
+     "name": "RamboxPro-1.1.3-mac.dmg"
+    },
+    "12563661": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 23149
+     },
+     "name": "latest.yml"
+    },
+    "12563691": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 366
+     },
+     "name": "RamboxPro-1.1.3-mac.zip"
+    },
+    "12563692": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 11117
+     },
+     "name": "latest-mac.yml"
+    },
+    "12563735": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.1.3-linux-x64.zip"
+    },
+    "12563741": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1093
+     },
+     "name": "RamboxPro-1.1.3-linux-x64.snap"
+    },
+    "12563806": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "RamboxPro-1.1.3-linux-x64.tar.gz"
+    },
+    "12563866": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 79
+     },
+     "name": "RamboxPro-1.1.3-linux-x64.deb"
+    },
+    "12564010": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.1.3-linux-x64.rpm"
+    },
+    "12564011": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 11
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.3"
+  },
+  "17922797": {
+   "assets": {
+    "13146703": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 34
+     },
+     "name": "RamboxPro-1.1.4-linux-x64.AppImage"
+    },
+    "13146729": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.1.4-mac.dmg.blockmap"
+    },
+    "13146730": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 719
+     },
+     "name": "RamboxPro-1.1.4-mac.dmg"
+    },
+    "13146731": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.1.4-linux-x64.zip"
+    },
+    "13146738": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 279
+     },
+     "name": "RamboxPro-1.1.4-mac.zip"
+    },
+    "13146739": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1193
+     },
+     "name": "RamboxPro-1.1.4-win.exe.blockmap"
+    },
+    "13146740": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2435
+     },
+     "name": "RamboxPro-1.1.4-win.exe"
+    },
+    "13146741": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12296
+     },
+     "name": "latest-mac.yml"
+    },
+    "13146743": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1112
+     },
+     "name": "RamboxPro-1.1.4-linux-x64.snap"
+    },
+    "13146778": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 28502
+     },
+     "name": "latest.yml"
+    },
+    "13146813": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 36
+     },
+     "name": "RamboxPro-1.1.4-linux-x64.tar.gz"
+    },
+    "13146857": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 84
+     },
+     "name": "RamboxPro-1.1.4-linux-x64.deb"
+    },
+    "13146898": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 25
+     },
+     "name": "RamboxPro-1.1.4-linux-x64.rpm"
+    },
+    "13146899": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 11
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.4"
+  },
+  "18562519": {
+   "assets": {
+    "13687366": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 20
+     },
+     "name": "RamboxPro-1.1.5-linux-x64.AppImage"
+    },
+    "13687376": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 991
+     },
+     "name": "RamboxPro-1.1.5-win.exe.blockmap"
+    },
+    "13687377": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1522
+     },
+     "name": "RamboxPro-1.1.5-win.exe"
+    },
+    "13687387": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.1.5-linux-x64.zip"
+    },
+    "13687392": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 566
+     },
+     "name": "RamboxPro-1.1.5-linux-x64.snap"
+    },
+    "13687393": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 469
+     },
+     "name": "RamboxPro-1.1.5-mac.dmg"
+    },
+    "13687394": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.1.5-mac.dmg.blockmap"
+    },
+    "13687403": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 276
+     },
+     "name": "RamboxPro-1.1.5-mac.zip"
+    },
+    "13687405": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7781
+     },
+     "name": "latest-mac.yml"
+    },
+    "13687407": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 16022
+     },
+     "name": "latest.yml"
+    },
+    "13687440": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.1.5-linux-x64.tar.gz"
+    },
+    "13687466": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 66
+     },
+     "name": "RamboxPro-1.1.5-linux-x64.deb"
+    },
+    "13687503": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "RamboxPro-1.1.5-linux-x64.rpm"
+    },
+    "13687505": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.5"
+  },
+  "18969795": {
+   "assets": {
+    "14013769": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 25
+     },
+     "name": "RamboxPro-1.1.6-linux-x64.AppImage"
+    },
+    "14013828": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 886
+     },
+     "name": "RamboxPro-1.1.6-linux-x64.snap"
+    },
+    "14013851": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.1.6-linux-x64.zip"
+    },
+    "14013948": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 23
+     },
+     "name": "RamboxPro-1.1.6-linux-x64.tar.gz"
+    },
+    "14013949": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1063
+     },
+     "name": "RamboxPro-1.1.6-mac.dmg"
+    },
+    "14013950": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.1.6-mac.dmg.blockmap"
+    },
+    "14013978": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 459
+     },
+     "name": "RamboxPro-1.1.6-mac.zip"
+    },
+    "14013979": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 18339
+     },
+     "name": "latest-mac.yml"
+    },
+    "14013996": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1301
+     },
+     "name": "RamboxPro-1.1.6-win.exe.blockmap"
+    },
+    "14013997": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3269
+     },
+     "name": "RamboxPro-1.1.6-win.exe"
+    },
+    "14013998": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 352
+     },
+     "name": "RamboxPro-1.1.6-linux-x64.deb"
+    },
+    "14014021": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 35834
+     },
+     "name": "latest.yml"
+    },
+    "14014056": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 18
+     },
+     "name": "RamboxPro-1.1.6-linux-x64.rpm"
+    },
+    "14014057": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.6"
+  },
+  "19660164": {
+   "assets": {
+    "14680538": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 44
+     },
+     "name": "RamboxPro-1.1.7-linux-x64.AppImage"
+    },
+    "14680566": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1687
+     },
+     "name": "RamboxPro-1.1.7-linux-x64.snap"
+    },
+    "14680574": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.1.7-linux-x64.zip"
+    },
+    "14680578": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 536
+     },
+     "name": "RamboxPro-1.1.7-mac.zip"
+    },
+    "14680582": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1547
+     },
+     "name": "RamboxPro-1.1.7-mac.dmg"
+    },
+    "14680583": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.1.7-mac.dmg.blockmap"
+    },
+    "14680584": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 40776
+     },
+     "name": "latest-mac.yml"
+    },
+    "14680590": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2927
+     },
+     "name": "RamboxPro-1.1.7-win.exe.blockmap"
+    },
+    "14680591": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5148
+     },
+     "name": "RamboxPro-1.1.7-win.exe"
+    },
+    "14680595": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 81379
+     },
+     "name": "latest.yml"
+    },
+    "14680605": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 47
+     },
+     "name": "RamboxPro-1.1.7-linux-x64.tar.gz"
+    },
+    "14680622": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 150
+     },
+     "name": "RamboxPro-1.1.7-linux-x64.deb"
+    },
+    "14680686": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 32
+     },
+     "name": "RamboxPro-1.1.7-linux-x64.rpm"
+    },
+    "14680688": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.1.7"
+  },
+  "20645914": {
+   "assets": {
+    "15901817": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 541
+     },
+     "name": "RamboxPro-1.2.0-mac.zip"
+    },
+    "15901830": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 878
+     },
+     "name": "RamboxPro-1.2.0-mac.dmg"
+    },
+    "15901831": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.0-mac.dmg.blockmap"
+    },
+    "15901834": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 25189
+     },
+     "name": "latest-mac.yml"
+    },
+    "15901878": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3558
+     },
+     "name": "RamboxPro-1.2.0-win.exe"
+    },
+    "15901879": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2185
+     },
+     "name": "RamboxPro-1.2.0-win.exe.blockmap"
+    },
+    "15901969": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 51251
+     },
+     "name": "latest.yml"
+    },
+    "15906658": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 35
+     },
+     "name": "RamboxPro-1.2.0-linux-x64.AppImage"
+    },
+    "15906696": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 775
+     },
+     "name": "RamboxPro-1.2.0-linux-x64.snap"
+    },
+    "15906704": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 14
+     },
+     "name": "RamboxPro-1.2.0-linux-x64.zip"
+    },
+    "15906803": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 41
+     },
+     "name": "RamboxPro-1.2.0-linux-x64.tar.gz"
+    },
+    "15906863": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 101
+     },
+     "name": "RamboxPro-1.2.0-linux-x64.deb"
+    },
+    "15906958": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 24
+     },
+     "name": "RamboxPro-1.2.0-linux-x64.rpm"
+    },
+    "15906959": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.2.0"
+  },
+  "22010218": {
+   "assets": {
+    "16622351": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.1-beta.1-linux-x64.AppImage"
+    },
+    "16622433": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.2.1-beta.1-linux-x64.snap"
+    },
+    "16622440": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.2.1-beta.1-linux-x64.zip"
+    },
+    "16622485": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 14
+     },
+     "name": "RamboxPro-1.2.1-beta.1-win.exe"
+    },
+    "16622486": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 23
+     },
+     "name": "RamboxPro-1.2.1-beta.1-win.exe.blockmap"
+    },
+    "16622498": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 11
+     },
+     "name": "RamboxPro-1.2.1-beta.1-mac.zip"
+    },
+    "16622501": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.2.1-beta.1-mac.dmg"
+    },
+    "16622502": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.2.1-beta.1-mac.dmg.blockmap"
+    },
+    "16622504": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 76
+     },
+     "name": "latest-mac.yml"
+    },
+    "16622532": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 83
+     },
+     "name": "latest.yml"
+    },
+    "16622542": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.2.1-beta.1-linux-x64.tar.gz"
+    },
+    "16622639": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.1-beta.1-linux-x64.deb"
+    },
+    "16622831": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.1-beta.1-linux-x64.rpm"
+    },
+    "16622833": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.2.1-beta.1"
+  },
+  "22030723": {
+   "assets": {
+    "16641753": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.2.1-linux-x64.AppImage"
+    },
+    "16641805": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 202
+     },
+     "name": "RamboxPro-1.2.1-linux-x64.snap"
+    },
+    "16641830": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.1-linux-x64.zip"
+    },
+    "16641861": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.2.1-mac.dmg.blockmap"
+    },
+    "16641862": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 184
+     },
+     "name": "RamboxPro-1.2.1-mac.dmg"
+    },
+    "16641871": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 481
+     },
+     "name": "RamboxPro-1.2.1-mac.zip"
+    },
+    "16641872": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7202
+     },
+     "name": "latest-mac.yml"
+    },
+    "16641930": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1616
+     },
+     "name": "RamboxPro-1.2.1-win.exe.blockmap"
+    },
+    "16641931": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1430
+     },
+     "name": "RamboxPro-1.2.1-win.exe"
+    },
+    "16641944": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.2.1-linux-x64.tar.gz"
+    },
+    "16641964": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 14249
+     },
+     "name": "latest.yml"
+    },
+    "16641984": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 92
+     },
+     "name": "RamboxPro-1.2.1-linux-x64.deb"
+    },
+    "16642043": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "RamboxPro-1.2.1-linux-x64.rpm"
+    },
+    "16642046": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.2.1"
+  },
+  "22193510": {
+   "assets": {
+    "16766915": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.2.2-beta.1-linux-x64.AppImage"
+    },
+    "16766974": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.2.2-beta.1-linux-x64.snap"
+    },
+    "16766995": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.2.2-beta.1-linux-x64.zip"
+    },
+    "16767006": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.2.2-beta.1-mac.dmg.blockmap"
+    },
+    "16767007": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.2.2-beta.1-mac.dmg"
+    },
+    "16767025": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.2.2-beta.1-mac.zip"
+    },
+    "16767027": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 69
+     },
+     "name": "latest-mac.yml"
+    },
+    "16767029": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 25
+     },
+     "name": "RamboxPro-1.2.2-beta.1-win.exe.blockmap"
+    },
+    "16767030": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 21
+     },
+     "name": "RamboxPro-1.2.2-beta.1-win.exe"
+    },
+    "16767070": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 126
+     },
+     "name": "latest.yml"
+    },
+    "16767115": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.2.2-beta.1-linux-x64.tar.gz"
+    },
+    "16767200": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.2-beta.1-linux-x64.deb"
+    },
+    "16767292": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.2.2-beta.1-linux-x64.rpm"
+    },
+    "16767297": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.2.2-beta.1"
+  },
+  "22295380": {
+   "assets": {
+    "16854066": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 68
+     },
+     "name": "RamboxPro-1.2.2-linux-x64.AppImage"
+    },
+    "16854104": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2584
+     },
+     "name": "RamboxPro-1.2.2-linux-x64.snap"
+    },
+    "16854124": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.2.2-linux-x64.zip"
+    },
+    "16854259": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 50
+     },
+     "name": "RamboxPro-1.2.2-linux-x64.tar.gz"
+    },
+    "16854261": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 736
+     },
+     "name": "RamboxPro-1.2.2-mac.zip"
+    },
+    "16854271": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.2.2-mac.dmg.blockmap"
+    },
+    "16854272": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1352
+     },
+     "name": "RamboxPro-1.2.2-mac.dmg"
+    },
+    "16854273": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 55156
+     },
+     "name": "latest-mac.yml"
+    },
+    "16854347": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 362
+     },
+     "name": "RamboxPro-1.2.2-linux-x64.deb"
+    },
+    "16854369": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2504
+     },
+     "name": "RamboxPro-1.2.2-win.exe.blockmap"
+    },
+    "16854370": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5083
+     },
+     "name": "RamboxPro-1.2.2-win.exe"
+    },
+    "16854456": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 125924
+     },
+     "name": "latest.yml"
+    },
+    "16854531": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 47
+     },
+     "name": "RamboxPro-1.2.2-linux-x64.rpm"
+    },
+    "16854537": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 15
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.2.2"
+  },
+  "23375857": {
+   "assets": {
+    "18151451": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.3.0-beta.1-linux-x64.AppImage"
+    },
+    "18151501": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.3.0-beta.1-linux-x64.snap"
+    },
+    "18151523": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.3.0-beta.1-linux-x64.zip"
+    },
+    "18151641": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.3.0-beta.1-linux-x64.tar.gz"
+    },
+    "18151686": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 64
+     },
+     "name": "RamboxPro-1.3.0-beta.1-win.exe"
+    },
+    "18151687": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 78
+     },
+     "name": "RamboxPro-1.3.0-beta.1-win.exe.blockmap"
+    },
+    "18151700": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.3.0-beta.1-linux-x64.deb"
+    },
+    "18151731": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 405
+     },
+     "name": "latest.yml"
+    },
+    "18151753": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.3.0-beta.1-mac.dmg.blockmap"
+    },
+    "18151754": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 11
+     },
+     "name": "RamboxPro-1.3.0-beta.1-mac.dmg"
+    },
+    "18151784": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 19
+     },
+     "name": "RamboxPro-1.3.0-beta.1-mac.zip"
+    },
+    "18151787": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 132
+     },
+     "name": "latest-mac.yml"
+    },
+    "18151864": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.3.0-beta.1-linux-x64.rpm"
+    },
+    "18151867": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.0-beta.1"
+  },
+  "24175075": {
+   "assets": {
+    "18439893": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 16
+     },
+     "name": "RamboxPro-1.3.0-linux-x64.AppImage"
+    },
+    "18440006": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 459
+     },
+     "name": "RamboxPro-1.3.0-linux-x64.snap"
+    },
+    "18440031": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.0-linux-x64.zip"
+    },
+    "18440171": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.3.0-linux-x64.tar.gz"
+    },
+    "18440256": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 149
+     },
+     "name": "RamboxPro-1.3.0-linux-x64.deb"
+    },
+    "18440295": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 516
+     },
+     "name": "RamboxPro-1.3.0-mac.zip"
+    },
+    "18440303": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.3.0-mac.dmg.blockmap"
+    },
+    "18440304": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 423
+     },
+     "name": "RamboxPro-1.3.0-mac.dmg"
+    },
+    "18440310": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 14525
+     },
+     "name": "latest-mac.yml"
+    },
+    "18440356": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 31
+     },
+     "name": "RamboxPro-1.3.0-linux-x64.rpm"
+    },
+    "18440357": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "latest-linux.yml"
+    },
+    "18440386": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1956
+     },
+     "name": "RamboxPro-1.3.0-win.exe"
+    },
+    "18440387": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3292
+     },
+     "name": "RamboxPro-1.3.0-win.exe.blockmap"
+    },
+    "18440462": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 26072
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.0"
+  },
+  "24515031": {
+   "assets": {
+    "18696085": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.1-beta.1-linux-x64.AppImage"
+    },
+    "18696178": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.3.1-beta.1-linux-x64.snap"
+    },
+    "18696186": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.1-beta.1-linux-x64.zip"
+    },
+    "18696347": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.1-beta.1-linux-x64.tar.gz"
+    },
+    "18696354": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 45
+     },
+     "name": "RamboxPro-1.3.1-beta.1-win.exe"
+    },
+    "18696356": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 50
+     },
+     "name": "RamboxPro-1.3.1-beta.1-win.exe.blockmap"
+    },
+    "18696358": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 347
+     },
+     "name": "latest.yml"
+    },
+    "18696360": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.3.1-beta.1-mac.zip"
+    },
+    "18696364": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.3.1-beta.1-mac.dmg"
+    },
+    "18696365": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.1-beta.1-mac.dmg.blockmap"
+    },
+    "18696366": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 82
+     },
+     "name": "latest-mac.yml"
+    },
+    "18696374": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.3.1-beta.1-linux-x64.deb"
+    },
+    "18696432": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.3.1-beta.1-linux-x64.rpm"
+    },
+    "18696434": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.1-beta.1"
+  },
+  "24779213": {
+   "assets": {
+    "18920266": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 67
+     },
+     "name": "RamboxPro-1.3.1-linux-x64.AppImage"
+    },
+    "18920360": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1780
+     },
+     "name": "RamboxPro-1.3.1-linux-x64.snap"
+    },
+    "18920392": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.3.1-linux-x64.zip"
+    },
+    "18920494": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 81
+     },
+     "name": "RamboxPro-1.3.1-linux-x64.tar.gz"
+    },
+    "18920576": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 433
+     },
+     "name": "RamboxPro-1.3.1-linux-x64.deb"
+    },
+    "18920713": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 52
+     },
+     "name": "RamboxPro-1.3.1-linux-x64.rpm"
+    },
+    "18920714": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 17
+     },
+     "name": "latest-linux.yml"
+    },
+    "18920788": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 22007
+     },
+     "name": "RamboxPro-1.3.1-win.exe.blockmap"
+    },
+    "18920789": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5767
+     },
+     "name": "RamboxPro-1.3.1-win.exe"
+    },
+    "18920885": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 101855
+     },
+     "name": "latest.yml"
+    },
+    "18925096": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1382
+     },
+     "name": "RamboxPro-1.3.1-mac.dmg"
+    },
+    "18925097": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.3.1-mac.dmg.blockmap"
+    },
+    "18925106": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 635
+     },
+     "name": "RamboxPro-1.3.1-mac.zip"
+    },
+    "18925107": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 57391
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.1"
+  },
+  "26442722": {
+   "assets": {
+    "20706471": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.3.2-beta.1-linux-x64.AppImage"
+    },
+    "20706523": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.3.2-beta.1-linux-x64.snap"
+    },
+    "20706559": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.2-beta.1-linux-x64.zip"
+    },
+    "20706668": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.2-beta.1-linux-x64.tar.gz"
+    },
+    "20706719": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.3.2-beta.1-linux-x64.deb"
+    },
+    "20706825": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.3.2-beta.1-linux-x64.rpm"
+    },
+    "20706827": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "latest-linux.yml"
+    },
+    "20706844": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 140
+     },
+     "name": "RamboxPro-1.3.2-beta.1-win.exe.blockmap"
+    },
+    "20706845": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 44
+     },
+     "name": "RamboxPro-1.3.2-beta.1-win.exe"
+    },
+    "20708354": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 18
+     },
+     "name": "RamboxPro-1.3.2-beta.1-mac.zip"
+    },
+    "20708365": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.2-beta.1-mac.dmg.blockmap"
+    },
+    "20708366": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.3.2-beta.1-mac.dmg"
+    },
+    "20708367": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 265
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.2-beta.1"
+  },
+  "26631826": {
+   "assets": {
+    "20924509": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 29
+     },
+     "name": "RamboxPro-1.3.2-beta.2-linux-x64.AppImage"
+    },
+    "20924539": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 15
+     },
+     "name": "RamboxPro-1.3.2-beta.2-linux-x64.snap"
+    },
+    "20924568": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.2-beta.2-linux-x64.zip"
+    },
+    "20924628": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 423
+     },
+     "name": "RamboxPro-1.3.2-beta.2-win.exe.blockmap"
+    },
+    "20924629": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 441
+     },
+     "name": "RamboxPro-1.3.2-beta.2-win.exe"
+    },
+    "20924640": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1325
+     },
+     "name": "latest.yml"
+    },
+    "20924678": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.2-beta.2-mac.dmg.blockmap"
+    },
+    "20924679": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.3.2-beta.2-mac.dmg"
+    },
+    "20924700": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 30
+     },
+     "name": "RamboxPro-1.3.2-beta.2-mac.zip"
+    },
+    "20924701": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 560
+     },
+     "name": "latest-mac.yml"
+    },
+    "20924715": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.3.2-beta.2-linux-x64.tar.gz"
+    },
+    "20924753": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.3.2-beta.2-linux-x64.deb"
+    },
+    "20924850": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.3.2-beta.2-linux-x64.rpm"
+    },
+    "20924851": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.2-beta.2"
+  },
+  "27001499": {
+   "assets": {
+    "21191720": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6269
+     },
+     "name": "RamboxPro-1.3.2-win.exe"
+    },
+    "21191721": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1824
+     },
+     "name": "RamboxPro-1.3.2-win.exe.blockmap"
+    },
+    "21191946": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 103
+     },
+     "name": "RamboxPro-1.3.2-linux-x64.AppImage"
+    },
+    "21192336": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2401
+     },
+     "name": "RamboxPro-1.3.2-linux-x64.snap"
+    },
+    "21192385": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 20
+     },
+     "name": "RamboxPro-1.3.2-linux-x64.zip"
+    },
+    "21192546": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 45
+     },
+     "name": "RamboxPro-1.3.2-linux-x64.tar.gz"
+    },
+    "21192598": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 700
+     },
+     "name": "RamboxPro-1.3.2-linux-x64.deb"
+    },
+    "21193043": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 62
+     },
+     "name": "RamboxPro-1.3.2-linux-x64.rpm"
+    },
+    "21193044": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 20
+     },
+     "name": "latest-linux.yml"
+    },
+    "21198964": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1951
+     },
+     "name": "RamboxPro-1.3.2-mac.dmg"
+    },
+    "21198965": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.3.2-mac.dmg.blockmap"
+    },
+    "21198991": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 772
+     },
+     "name": "RamboxPro-1.3.2-mac.zip"
+    },
+    "21198993": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 104335
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.3.2"
+  },
+  "28635086": {
+   "assets": {
+    "25625872": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 177
+     },
+     "name": "RamboxPro-1.4.0-beta.1-win.exe.blockmap"
+    },
+    "25625873": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 193
+     },
+     "name": "RamboxPro-1.4.0-beta.1-win.exe"
+    },
+    "25625879": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2524
+     },
+     "name": "latest.yml"
+    },
+    "25634371": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 44
+     },
+     "name": "RamboxPro-1.4.0-beta.1-mac.zip"
+    },
+    "25634398": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.4.0-beta.1-mac.dmg.blockmap"
+    },
+    "25634399": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 21
+     },
+     "name": "RamboxPro-1.4.0-beta.1-mac.dmg"
+    },
+    "25634405": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2516
+     },
+     "name": "latest-mac.yml"
+    },
+    "25638728": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.4.0-beta.1-linux-x64.AppImage"
+    },
+    "25638846": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 23
+     },
+     "name": "RamboxPro-1.4.0-beta.1-linux-x64.snap"
+    },
+    "25638928": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.4.0-beta.1-linux-x64.zip"
+    },
+    "25639260": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.4.0-beta.1-linux-x64.tar.gz"
+    },
+    "25639434": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 17
+     },
+     "name": "RamboxPro-1.4.0-beta.1-linux-x64.deb"
+    },
+    "25639720": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.4.0-beta.1-linux-x64.rpm"
+    },
+    "25639724": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.4.0-beta.1"
+  },
+  "31680770": {
+   "assets": {
+    "26069729": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 129
+     },
+     "name": "RamboxPro-1.4.0-beta.2-win.exe.blockmap"
+    },
+    "26069730": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 121
+     },
+     "name": "RamboxPro-1.4.0-beta.2-win.exe"
+    },
+    "26069733": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3168
+     },
+     "name": "latest.yml"
+    },
+    "26069873": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 41
+     },
+     "name": "RamboxPro-1.4.0-beta.2-mac.zip"
+    },
+    "26069993": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.4.0-beta.2-mac.dmg"
+    },
+    "26069994": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.4.0-beta.2-mac.dmg.blockmap"
+    },
+    "26069998": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3010
+     },
+     "name": "latest-mac.yml"
+    },
+    "26152949": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.4.0-beta.2-linux-x64.AppImage"
+    },
+    "26153065": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.4.0-beta.2-linux-x64.snap"
+    },
+    "26153111": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.4.0-beta.2-linux-x64.zip"
+    },
+    "26153289": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.4.0-beta.2-linux-x64.tar.gz"
+    },
+    "26153430": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 19
+     },
+     "name": "RamboxPro-1.4.0-beta.2-linux-x64.deb"
+    },
+    "26153610": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.4.0-beta.2-linux-x64.rpm"
+    },
+    "26153613": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.4.0-beta.2"
+  },
+  "32010992": {
+   "assets": {
+    "26394686": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 36
+     },
+     "name": "RamboxPro-1.4.0-linux-x64.AppImage"
+    },
+    "26394734": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1071
+     },
+     "name": "RamboxPro-1.4.0-linux-x64.snap"
+    },
+    "26394780": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.4.0-linux-x64.zip"
+    },
+    "26394792": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.4.0-mac.dmg.blockmap"
+    },
+    "26394793": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 864
+     },
+     "name": "RamboxPro-1.4.0-mac.dmg"
+    },
+    "26394823": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 741
+     },
+     "name": "RamboxPro-1.4.0-mac.zip"
+    },
+    "26394829": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 154891
+     },
+     "name": "latest-mac.yml"
+    },
+    "26394959": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 18808
+     },
+     "name": "RamboxPro-1.4.0-win.exe.blockmap"
+    },
+    "26394960": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 17562
+     },
+     "name": "RamboxPro-1.4.0-win.exe"
+    },
+    "26394968": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 148409
+     },
+     "name": "latest.yml"
+    },
+    "26395128": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 20
+     },
+     "name": "RamboxPro-1.4.0-linux-x64.tar.gz"
+    },
+    "26395216": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 466
+     },
+     "name": "RamboxPro-1.4.0-linux-x64.deb"
+    },
+    "26395377": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 44
+     },
+     "name": "RamboxPro-1.4.0-linux-x64.rpm"
+    },
+    "26395378": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 10
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.4.0"
+  },
+  "34205316": {
+   "assets": {
+    "28534291": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 75
+     },
+     "name": "RamboxPro-1.4.1-linux-x64.AppImage"
+    },
+    "28534313": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1190
+     },
+     "name": "RamboxPro-1.4.1-linux-x64.snap"
+    },
+    "28534319": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.4.1-linux-x64.zip"
+    },
+    "28534428": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 30
+     },
+     "name": "RamboxPro-1.4.1-linux-x64.tar.gz"
+    },
+    "28534482": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 400
+     },
+     "name": "RamboxPro-1.4.1-linux-x64.deb"
+    },
+    "28534622": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 48
+     },
+     "name": "RamboxPro-1.4.1-linux-x64.rpm"
+    },
+    "28534627": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 11
+     },
+     "name": "latest-linux.yml"
+    },
+    "28534706": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 817
+     },
+     "name": "RamboxPro-1.4.1-mac.zip"
+    },
+    "28534742": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1032
+     },
+     "name": "RamboxPro-1.4.1-mac.dmg"
+    },
+    "28534743": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.4.1-mac.dmg.blockmap"
+    },
+    "28534745": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 184036
+     },
+     "name": "latest-mac.yml"
+    },
+    "28552443": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12783
+     },
+     "name": "RamboxPro-1.4.1-win.exe"
+    },
+    "28552444": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 10563
+     },
+     "name": "RamboxPro-1.4.1-win.exe.blockmap"
+    },
+    "28552448": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 188034
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.4.1"
+  },
+  "34594427": {
+   "assets": {
+    "28957642": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 67
+     },
+     "name": "RamboxPro-1.5.0-beta.1-win.exe"
+    },
+    "28957643": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 91
+     },
+     "name": "RamboxPro-1.5.0-beta.1-win.exe.blockmap"
+    },
+    "28957649": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1871
+     },
+     "name": "latest.yml"
+    },
+    "28960062": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.5.0-beta.1-linux-x64.AppImage"
+    },
+    "28960106": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.5.0-beta.1-linux-x64.snap"
+    },
+    "28960154": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.1-linux-x64.zip"
+    },
+    "28960186": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 45
+     },
+     "name": "RamboxPro-1.5.0-beta.1-mac.zip"
+    },
+    "28960216": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.5.0-beta.1-mac.dmg"
+    },
+    "28960217": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-beta.1-mac.dmg.blockmap"
+    },
+    "28960219": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3044
+     },
+     "name": "latest-mac.yml"
+    },
+    "28960297": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.1-linux-x64.tar.gz"
+    },
+    "28960378": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 20
+     },
+     "name": "RamboxPro-1.5.0-beta.1-linux-x64.deb"
+    },
+    "28960617": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-beta.1-linux-x64.rpm"
+    },
+    "28960618": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.0-beta.1"
+  },
+  "35063342": {
+   "assets": {
+    "29362922": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 68
+     },
+     "name": "RamboxPro-1.5.0-beta.2-win.exe"
+    },
+    "29362923": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 104
+     },
+     "name": "RamboxPro-1.5.0-beta.2-win.exe.blockmap"
+    },
+    "29362931": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1606
+     },
+     "name": "latest.yml"
+    },
+    "29363943": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 38
+     },
+     "name": "RamboxPro-1.5.0-beta.2-mac.zip"
+    },
+    "29363987": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-beta.2-mac.dmg.blockmap"
+    },
+    "29363988": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.5.0-beta.2-mac.dmg"
+    },
+    "29363994": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3028
+     },
+     "name": "latest-mac.yml"
+    },
+    "29393236": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.5.0-beta.2-linux-x64.AppImage"
+    },
+    "29393352": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7
+     },
+     "name": "RamboxPro-1.5.0-beta.2-linux-x64.snap"
+    },
+    "29393389": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.2-linux-x64.zip"
+    },
+    "29393651": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.2-linux-x64.tar.gz"
+    },
+    "29393807": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 23
+     },
+     "name": "RamboxPro-1.5.0-beta.2-linux-x64.deb"
+    },
+    "29393970": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.5.0-beta.2-linux-x64.rpm"
+    },
+    "29393971": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.0-beta.2"
+  },
+  "35446970": {
+   "assets": {
+    "29758938": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 122
+     },
+     "name": "RamboxPro-1.5.0-beta.3-win.exe"
+    },
+    "29758939": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 160
+     },
+     "name": "RamboxPro-1.5.0-beta.3-win.exe.blockmap"
+    },
+    "29758947": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8789
+     },
+     "name": "latest.yml"
+    },
+    "29760100": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "RamboxPro-1.5.0-beta.3-mac.dmg"
+    },
+    "29760101": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-beta.3-mac.dmg.blockmap"
+    },
+    "29760135": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 71
+     },
+     "name": "RamboxPro-1.5.0-beta.3-mac.zip"
+    },
+    "29760136": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 14014
+     },
+     "name": "latest-mac.yml"
+    },
+    "29761788": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.5.0-beta.3-linux-x64.AppImage"
+    },
+    "29761815": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 26
+     },
+     "name": "RamboxPro-1.5.0-beta.3-linux-x64.snap"
+    },
+    "29761855": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-beta.3-linux-x64.zip"
+    },
+    "29762073": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.3-linux-x64.tar.gz"
+    },
+    "29762145": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 48
+     },
+     "name": "RamboxPro-1.5.0-beta.3-linux-x64.deb"
+    },
+    "29762339": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.5.0-beta.3-linux-x64.rpm"
+    },
+    "29762340": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.0-beta.3"
+  },
+  "36413305": {
+   "assets": {
+    "31179609": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 99
+     },
+     "name": "RamboxPro-1.5.0-linux-x64.AppImage"
+    },
+    "31179660": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 869
+     },
+     "name": "RamboxPro-1.5.0-linux-x64.snap"
+    },
+    "31179694": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.5.0-linux-x64.zip"
+    },
+    "31179896": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1023
+     },
+     "name": "RamboxPro-1.5.0-mac.dmg"
+    },
+    "31179897": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-mac.dmg.blockmap"
+    },
+    "31179934": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.5.0-linux-x64.tar.gz"
+    },
+    "31179940": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 826
+     },
+     "name": "RamboxPro-1.5.0-mac.zip"
+    },
+    "31179941": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 172354
+     },
+     "name": "latest-mac.yml"
+    },
+    "31179999": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 321
+     },
+     "name": "RamboxPro-1.5.0-linux-x64.deb"
+    },
+    "31180081": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 44
+     },
+     "name": "RamboxPro-1.5.0-linux-x64.rpm"
+    },
+    "31180082": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 8
+     },
+     "name": "latest-linux.yml"
+    },
+    "31180415": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9309
+     },
+     "name": "RamboxPro-1.5.0-win.exe"
+    },
+    "31180416": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 7452
+     },
+     "name": "RamboxPro-1.5.0-win.exe.blockmap"
+    },
+    "31180419": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 187652
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.0"
+  },
+  "36727129": {
+   "assets": {
+    "31010388": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 83
+     },
+     "name": "RamboxPro-1.5.0-beta.4-win.exe.blockmap"
+    },
+    "31010389": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 56
+     },
+     "name": "RamboxPro-1.5.0-beta.4-win.exe"
+    },
+    "31010415": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 234
+     },
+     "name": "latest.yml"
+    },
+    "31011659": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 26
+     },
+     "name": "RamboxPro-1.5.0-beta.4-mac.zip"
+    },
+    "31011684": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.0-beta.4-mac.dmg"
+    },
+    "31011685": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.4-mac.dmg.blockmap"
+    },
+    "31011686": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 315
+     },
+     "name": "latest-mac.yml"
+    },
+    "31012561": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.0-beta.4-linux-x64.AppImage"
+    },
+    "31012611": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 6
+     },
+     "name": "RamboxPro-1.5.0-beta.4-linux-x64.snap"
+    },
+    "31012684": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.0-beta.4-linux-x64.zip"
+    },
+    "31013034": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.0-beta.4-linux-x64.tar.gz"
+    },
+    "31013201": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.5.0-beta.4-linux-x64.deb"
+    },
+    "31013425": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.4-linux-x64.rpm"
+    },
+    "31013434": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.0-beta.4"
+  },
+  "36780674": {
+   "assets": {
+    "31059443": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.5.0-beta.5-linux-x64.AppImage"
+    },
+    "31059535": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "RamboxPro-1.5.0-beta.5-linux-x64.snap"
+    },
+    "31059582": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.0-beta.5-linux-x64.zip"
+    },
+    "31059879": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.0-beta.5-linux-x64.tar.gz"
+    },
+    "31059966": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "RamboxPro-1.5.0-beta.5-linux-x64.deb"
+    },
+    "31060028": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.5-linux-x64.rpm"
+    },
+    "31060029": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "latest-linux.yml"
+    },
+    "31061340": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.5-mac.dmg"
+    },
+    "31061341": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.0-beta.5-mac.dmg.blockmap"
+    },
+    "31061433": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 34
+     },
+     "name": "RamboxPro-1.5.0-beta.5-mac.zip"
+    },
+    "31061439": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1377
+     },
+     "name": "latest-mac.yml"
+    },
+    "31063041": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 60
+     },
+     "name": "RamboxPro-1.5.0-beta.5-win.exe"
+    },
+    "31063042": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 95
+     },
+     "name": "RamboxPro-1.5.0-beta.5-win.exe.blockmap"
+    },
+    "31063044": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 774
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.0-beta.5"
+  },
+  "39735233": {
+   "assets": {
+    "33396204": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 129
+     },
+     "name": "RamboxPro-1.5.1-beta.1-win.exe.blockmap"
+    },
+    "33396206": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 184
+     },
+     "name": "RamboxPro-1.5.1-beta.1-win.exe"
+    },
+    "33396208": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2798
+     },
+     "name": "latest.yml"
+    },
+    "33397950": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.1-beta.1-linux-x64.AppImage"
+    },
+    "33397986": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.5.1-beta.1-linux-x64.snap"
+    },
+    "33398012": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.1-beta.1-linux-x64.zip"
+    },
+    "33398035": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 32
+     },
+     "name": "RamboxPro-1.5.1-beta.1-mac.zip"
+    },
+    "33398073": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 77
+     },
+     "name": "RamboxPro-1.5.1-beta.1-mac.dmg"
+    },
+    "33398074": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.1-beta.1-mac.dmg.blockmap"
+    },
+    "33398079": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2909
+     },
+     "name": "latest-mac.yml"
+    },
+    "33398203": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.1-beta.1-linux-x64.tar.gz"
+    },
+    "33398311": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 67
+     },
+     "name": "RamboxPro-1.5.1-beta.1-linux-x64.deb"
+    },
+    "33398457": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5
+     },
+     "name": "RamboxPro-1.5.1-beta.1-linux-x64.rpm"
+    },
+    "33398463": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "latest-linux.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.1-beta.1"
+  },
+  "40190480": {
+   "assets": {
+    "33865006": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 44
+     },
+     "name": "RamboxPro-1.5.1-linux-x64.AppImage"
+    },
+    "33865086": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 800
+     },
+     "name": "RamboxPro-1.5.1-linux-x64.snap"
+    },
+    "33865117": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 10
+     },
+     "name": "RamboxPro-1.5.1-linux-x64.zip"
+    },
+    "33865496": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 12
+     },
+     "name": "RamboxPro-1.5.1-linux-x64.tar.gz"
+    },
+    "33865646": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 600
+     },
+     "name": "RamboxPro-1.5.1-linux-x64.deb"
+    },
+    "33865844": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 52
+     },
+     "name": "RamboxPro-1.5.1-linux-x64.rpm"
+    },
+    "33865845": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4
+     },
+     "name": "latest-linux.yml"
+    },
+    "33866002": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9215
+     },
+     "name": "RamboxPro-1.5.1-win.exe"
+    },
+    "33866003": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 5695
+     },
+     "name": "RamboxPro-1.5.1-win.exe.blockmap"
+    },
+    "33866012": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 183177
+     },
+     "name": "latest.yml"
+    },
+    "33872356": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.1-mac.dmg.blockmap"
+    },
+    "33872357": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1002
+     },
+     "name": "RamboxPro-1.5.1-mac.dmg"
+    },
+    "33872401": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 790
+     },
+     "name": "RamboxPro-1.5.1-mac.zip"
+    },
+    "33872403": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 175239
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.1"
+  },
+  "41442212": {
+   "assets": {
+    "36627967": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.2-beta.1-linux-x64.AppImage"
+    },
+    "36628035": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 9
+     },
+     "name": "RamboxPro-1.5.2-beta.1-linux-x64.snap"
+    },
+    "36628219": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.2-beta.1-linux-x64.zip"
+    },
+    "36628229": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 97
+     },
+     "name": "RamboxPro-1.5.2-beta.1-mac.dmg"
+    },
+    "36628230": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.2-beta.1-mac.dmg.blockmap"
+    },
+    "36628242": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 47
+     },
+     "name": "RamboxPro-1.5.2-beta.1-mac.zip"
+    },
+    "36628245": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 4587
+     },
+     "name": "latest-mac.yml"
+    },
+    "36628526": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.2-beta.1-linux-x64.tar.gz"
+    },
+    "36628616": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 14
+     },
+     "name": "RamboxPro-1.5.2-beta.1-linux-x64.deb"
+    },
+    "36628684": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2
+     },
+     "name": "RamboxPro-1.5.2-beta.1-linux-x64.rpm"
+    },
+    "36628686": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "latest-linux.yml"
+    },
+    "36628693": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 195
+     },
+     "name": "RamboxPro-1.5.2-beta.1-win.exe"
+    },
+    "36628694": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 95
+     },
+     "name": "RamboxPro-1.5.2-beta.1-win.exe.blockmap"
+    },
+    "36628698": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3931
+     },
+     "name": "latest.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.2-beta.1"
+  },
+  "43366121": {
+   "assets": {
+    "37306323": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13
+     },
+     "name": "RamboxPro-1.5.2-linux-x64.AppImage"
+    },
+    "37306362": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 161
+     },
+     "name": "RamboxPro-1.5.2-linux-x64.snap"
+    },
+    "37306439": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.2-linux-x64.zip"
+    },
+    "37306709": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1
+     },
+     "name": "RamboxPro-1.5.2-linux-x64.tar.gz"
+    },
+    "37306787": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 96
+     },
+     "name": "RamboxPro-1.5.2-linux-x64.deb"
+    },
+    "37306880": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 15
+     },
+     "name": "RamboxPro-1.5.2-linux-x64.rpm"
+    },
+    "37306884": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 3
+     },
+     "name": "latest-linux.yml"
+    },
+    "37307319": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 1661
+     },
+     "name": "RamboxPro-1.5.2-win.exe.blockmap"
+    },
+    "37307320": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 2197
+     },
+     "name": "RamboxPro-1.5.2-win.exe"
+    },
+    "37307336": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 15564
+     },
+     "name": "latest.yml"
+    },
+    "37309720": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 556
+     },
+     "name": "RamboxPro-1.5.2-mac.zip"
+    },
+    "37309748": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 120
+     },
+     "name": "RamboxPro-1.5.2-mac.dmg"
+    },
+    "37309749": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 0
+     },
+     "name": "RamboxPro-1.5.2-mac.dmg.blockmap"
+    },
+    "37309750": {
+     "created_at": "2019-02-11T15:13:01",
+     "downloads": {
+      "2021-05-25": 13182
+     },
+     "name": "latest-mac.yml"
+    }
+   },
+   "created_at": "2019-02-11T15:13:01",
+   "name": "v1.5.2"
+  }
+ }
+}
