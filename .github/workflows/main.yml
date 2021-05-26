@@ -21,4 +21,6 @@ jobs:
           pip install PyGithub
           python python/grh.py
         env:
-          key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+          REPO_NAME: 'github-release-history'
+          REPO_USER: 'ramboxapp'
+          API_KEY: ${{ secrets.api_key }}
