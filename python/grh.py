@@ -6,8 +6,6 @@ from pathlib import Path
 
 from github import Github
 
-#from config import *
-
 # get email and password from environment variables
 REPO_NAME = os.environ.get('REPO_NAME')
 REPO_USER = os.environ.get('REPO_USER')
@@ -46,6 +44,10 @@ def process_repo(G, repo_data):
             release_data["name"] = release.title or release.tag_name
 
         for asset in release.get_assets():
+            if ".yml" in asset.name:
+                continue
+            if ".blockmap" in asset.name:
+                continue
             if str(asset.id) not in release_data["assets"]:
                 asset_data = {
                     "created_at": release.created_at.isoformat(),
