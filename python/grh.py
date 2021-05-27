@@ -43,12 +43,15 @@ def process_repo(G, repo_data):
             # Name could have changed
             release_data["name"] = release.title or release.tag_name
 
+        asset_total_downloads = 0
+
         for asset in release.get_assets():
             if ".yml" in asset.name:
                 continue
             if ".blockmap" in asset.name:
                 continue
-            if str(asset.id) not in release_data["assets"]:
+            if str(asset.id) not in release_data["assets"]: # If asset do not exist
+                asset_total_downloads += asset.download_count
                 asset_data = {
                     "created_at": release.created_at.isoformat(),
                     "name": asset.name,
@@ -63,7 +66,13 @@ def process_repo(G, repo_data):
                 # Only update if "today" doesn't exist and the download count has changed
                 if str(yesterday) != most_recent and asset_data["downloads"][most_recent] != asset.download_count:
                     asset_data["downloads"][str(yesterday)] = asset.download_count
-
+        
+        # Save total of downloads of all assets
+        asset_data = release_data["assets"]["total"]
+        most_recent = sorted(asset_data["downloads"].keys())[-1]
+        if str(yesterday) != most_recent and asset_data["downloads"][most_recent] != asset_total_downloads:
+            asset_data["downloads"][str(yesterday)] = asset_total_downloads
+        
     with open('data/{}/{}.json'.format(repo_data["user"], repo_data["repo"]), "w+") as f:
         json.dump(data, f, indent=1, sort_keys=True)
 
