@@ -68,10 +68,7 @@ def process_repo(G, repo_data):
                     asset_data["downloads"][str(yesterday)] = asset.download_count
         
         # Save total of downloads of all assets
-        asset_data = release_data["assets"]["total"]
-        most_recent = sorted(asset_data["downloads"].keys())[-1]
-        if str(yesterday) != most_recent and asset_data["downloads"][most_recent] != asset_total_downloads:
-            asset_data["downloads"][str(yesterday)] = asset_total_downloads
+        asset_data["downloads"][str(yesterday)] = asset_total_downloads
         
     with open('data/{}/{}.json'.format(repo_data["user"], repo_data["repo"]), "w+") as f:
         json.dump(data, f, indent=1, sort_keys=True)
