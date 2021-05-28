@@ -50,8 +50,8 @@ def process_repo(G, repo_data):
                 continue
             if ".blockmap" in asset.name:
                 continue
+            assets_total_downloads += asset.download_count
             if str(asset.id) not in release_data["assets"]: # If asset do not exist
-                assets_total_downloads += asset.download_count
                 asset_data = {
                     "created_at": release.created_at.isoformat(),
                     "name": asset.name,
