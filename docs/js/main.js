@@ -153,8 +153,7 @@ function getGraphData() {
 	//var url = apiRoot + "repos/ramboxapp/github-release-history/contents/data/" + user + "/" + repository + ".json";
 	var url = "https://raw.githubusercontent.com/ramboxapp/github-release-history/master/data/" + user + "/" + repository + ".json";
 	//console.log(url)
-	$.getJSON(url, function(blob) {
-		stats = JSON.parse(atob(blob.content));
+	$.getJSON(url, function(stats) {
 		$("#loader-gif").hide();
 
 		var latest = new Date("1900-01-01");
