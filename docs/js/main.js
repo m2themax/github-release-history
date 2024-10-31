@@ -150,8 +150,8 @@ function getGraphData() {
 	var user = $("#username").val();
 	var repository = $("#repository").val();
 
-	var url = apiRoot + "repos/ramboxapp/github-release-history/contents/data/" + user + "/" + repository + ".json";
-	//var url = "data/" + user + "/" + repository + ".json";
+	//var url = apiRoot + "repos/ramboxapp/github-release-history/contents/data/" + user + "/" + repository + ".json";
+	var url = "https://raw.githubusercontent.com/ramboxapp/github-release-history/master/data/" + user + "/" + repository + ".json";
 	//console.log(url)
 	$.getJSON(url, function(blob) {
 		stats = JSON.parse(atob(blob.content));
