@@ -100,7 +100,7 @@ def main():
 
     repos = json.loads(open("repos.json", "r").read())
     G = Github(API_KEY, user_agent="github-release-history")
-    G.get_rate_limit().core.remaining
+    #G.get_rate_limit().core.remaining
 
     start_timestamp = datetime.utcnow()
 
@@ -113,7 +113,7 @@ def main():
 
 Started at: {}
 Finished at: {}
-Rate limit remaining: {}""".format(today, start_timestamp.isoformat(), end_timestamp.isoformat(), G.get_rate_limit().core.remaining)
+#Rate limit remaining: {}""".format(today, start_timestamp.isoformat(), end_timestamp.isoformat(), G.get_rate_limit().core.remaining)
     
     os.system("git config --global user.name \"GitHub Actions\"")
     os.system("git config --global user.email \"actions@github.com\"")
