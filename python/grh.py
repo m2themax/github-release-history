@@ -112,7 +112,7 @@ def main():
     commit_message = """Update for {}
 
 Started at: {}
-Finished at: {}
+Finished at: {}""".format(today, start_timestamp.isoformat(), end_timestamp.isoformat())
     
     os.system("git config --global user.name \"GitHub Actions\"")
     os.system("git config --global user.email \"actions@github.com\"")
