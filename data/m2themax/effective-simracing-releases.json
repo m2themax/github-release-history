@@ -1,0 +1,24 @@
+{
+ "releases": {
+  "237845594": {
+   "assets": {
+    "279785080": {
+     "created_at": "2025-08-06T04:28:53+00:00",
+     "downloads": {
+      "2025-08-06": 9
+     },
+     "name": "effective_simracing_0.4.8.zip"
+    },
+    "total": {
+     "created_at": "2025-08-06T04:28:53+00:00",
+     "downloads": {
+      "2025-08-06": 9
+     },
+     "name": "Total downloads"
+    }
+   },
+   "created_at": "2025-08-06T04:28:53+00:00",
+   "name": "v0.4.8"
+  }
+ }
+}
